@@ -59,4 +59,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@jeremiasvictor](https://github.com/jeremiasvictor})
+- GitHub [@jeremiasvictor](https://github.com/jeremiasvictor)
